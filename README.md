@@ -50,7 +50,6 @@ Github Actions:
     plugin: oxc
     args: |
       setup
-    working-directory: example
 - name: Show oxlint version
   run: |
     export PATH=${HOME}/.bun/bin:${PATH}
