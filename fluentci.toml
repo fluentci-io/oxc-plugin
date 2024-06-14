@@ -1,0 +1,8 @@
+[package]
+authors = [
+  "Tsiry Sandratraina <tsiry.sndr@fluentci.io>",
+]
+description = "CI/CD Plugin for Oxc"
+license = "MIT"
+name = "oxc"
+version = "0.1.0"
