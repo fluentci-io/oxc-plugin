@@ -1,5 +1,6 @@
 # Oxc Plugin
 
+[![fluentci pipeline](https://shield.fluentci.io/x/oxc)](https://pkg.fluentci.io/oxc)
 [![ci](https://github.com/fluentci-io/oxc-plugin/actions/workflows/ci.yml/badge.svg)](https://github.com/fluentci-io/oxc-plugin/actions/workflows/ci.yml)
 
 This plugin sets up your CI/CD pipeline with [oxc tools](https://github.com/oxc-project/oxc).
